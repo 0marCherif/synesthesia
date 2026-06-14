@@ -1,0 +1,41 @@
+50 questions
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/2076 [00:00<?, ?it/s]Loading weights:  21%|██        | 437/2076 [00:00<00:00, 4365.03it/s]Loading weights:  21%|██        | 437/2076 [00:20<00:00, 4365.03it/s]Loading weights:  36%|███▋      | 755/2076 [00:22<00:46, 28.38it/s]  Loading weights: 100%|██████████| 2076/2076 [00:22<00:00, 94.01it/s]
+loaded model; yes/no ids: [4443, 8438, 10784, 11262, 26915, 51327] [951, 1904, 2301, 3771, 7018, 9424]
+
+=== agnews: 500 texts x 50 questions = 25000 prompts ===
+  5219/25000  222 prompts/s  elapsed 23s
+  10068/25000  216 prompts/s  elapsed 47s
+  15097/25000  208 prompts/s  elapsed 73s
+  20164/25000  198 prompts/s  elapsed 102s
+  25000/25000  183 prompts/s  elapsed 137s
+  saved /home/ubuntu/synesthesia_paper/code/../features/agnews_features.parquet; per-question cross-text std: min=1.309 median=2.845 max=8.160
+  dataset time: 137s
+
+=== emotion: 498 texts x 50 questions = 24900 prompts ===
+  5172/24900  421 prompts/s  elapsed 12s
+  10050/24900  385 prompts/s  elapsed 26s
+  15171/24900  353 prompts/s  elapsed 43s
+  20305/24900  323 prompts/s  elapsed 63s
+  saved /home/ubuntu/synesthesia_paper/code/../features/emotion_features.parquet; per-question cross-text std: min=1.706 median=3.377 max=7.857
+  dataset time: 85s
+
+=== imdb: 500 texts x 50 questions = 25000 prompts ===
+  5122/25000  111 prompts/s  elapsed 46s
+  10039/25000  92 prompts/s  elapsed 109s
+  15000/25000  80 prompts/s  elapsed 189s
+  20040/25000  67 prompts/s  elapsed 301s
+  25000/25000  57 prompts/s  elapsed 437s
+  saved /home/ubuntu/synesthesia_paper/code/../features/imdb_features.parquet; per-question cross-text std: min=1.161 median=3.078 max=9.567
+  dataset time: 437s
+
+=== bbc: 500 texts x 50 questions = 25000 prompts ===
+  5073/25000  58 prompts/s  elapsed 87s
+  10037/25000  50 prompts/s  elapsed 200s
+  15026/25000  47 prompts/s  elapsed 322s
+  20039/25000  44 prompts/s  elapsed 452s
+  25000/25000  42 prompts/s  elapsed 589s
+  saved /home/ubuntu/synesthesia_paper/code/../features/bbc_features.parquet; per-question cross-text std: min=1.101 median=2.545 max=6.998
+  dataset time: 589s
+
+ALL DONE in 1360s

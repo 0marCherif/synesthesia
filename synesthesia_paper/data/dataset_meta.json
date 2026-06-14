@@ -1,0 +1,76 @@
+{
+  "imdb": {
+    "path": "data/imdb.parquet",
+    "n": 500,
+    "classes": [
+      "neg",
+      "pos"
+    ],
+    "n_classes": 2,
+    "dist": {
+      "pos": 250,
+      "neg": 250
+    },
+    "mean_words": 188.54
+  },
+  "agnews": {
+    "path": "data/agnews.parquet",
+    "n": 500,
+    "classes": [
+      "World",
+      "Sports",
+      "Business",
+      "Sci/Tech"
+    ],
+    "n_classes": 4,
+    "dist": {
+      "Business": 125,
+      "Sports": 125,
+      "Sci/Tech": 125,
+      "World": 125
+    },
+    "mean_words": 37.342
+  },
+  "bbc": {
+    "path": "data/bbc.parquet",
+    "n": 500,
+    "classes": [
+      "business",
+      "entertainment",
+      "politics",
+      "sport",
+      "tech"
+    ],
+    "n_classes": 5,
+    "dist": {
+      "sport": 100,
+      "entertainment": 100,
+      "tech": 100,
+      "politics": 100,
+      "business": 100
+    },
+    "mean_words": 268.566
+  },
+  "emotion": {
+    "path": "data/emotion.parquet",
+    "n": 498,
+    "classes": [
+      "sadness",
+      "joy",
+      "love",
+      "anger",
+      "fear",
+      "surprise"
+    ],
+    "n_classes": 6,
+    "dist": {
+      "anger": 83,
+      "joy": 83,
+      "love": 83,
+      "sadness": 83,
+      "surprise": 83,
+      "fear": 83
+    },
+    "mean_words": 19.833333333333332
+  }
+}

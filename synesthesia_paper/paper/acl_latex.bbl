@@ -1,0 +1,90 @@
+\begin{thebibliography}{14}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bender et~al.(2021)Bender, Gebru, McMillan-Major, and
+  Shmitchell}]{bender2021stochastic}
+Emily~M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret
+  Shmitchell. 2021.
+\newblock On the dangers of stochastic parrots: Can language models be too big?
+\newblock In \emph{Proceedings of the 2021 ACM Conference on Fairness,
+  Accountability, and Transparency (FAccT)}, pages 610--623.
+
+\bibitem[{Bender and Koller(2020)}]{benderkoller2020climbing}
+Emily~M. Bender and Alexander Koller. 2020.
+\newblock Climbing towards {NLU}: On meaning, form, and understanding in the
+  age of data.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pages 5185--5198.
+
+\bibitem[{Bisk et~al.(2020)Bisk, Holtzman, Thomason, Andreas, Bengio, Chai,
+  Lapata, Lazaridou, May, Nisnevich, Pinto, and Turian}]{bisk2020experience}
+Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce
+  Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich,
+  Nicolas Pinto, and Joseph Turian. 2020.
+\newblock Experience grounds language.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 8718--8735.
+
+\bibitem[{Cytowic()}]{cytowicSynesthesiaUnionSenses2002}
+Richard~E. Cytowic.
+\newblock \href {http://arxiv.org/abs/fl6wX4xzb_kC} {\emph{Synesthesia: {{A
+  Union}} of the {{Senses}}}}.
+\newblock {MIT Press}.
+
+\bibitem[{de~Saussure(1916)}]{saussure1916cours}
+Ferdinand de~Saussure. 1916.
+\newblock \emph{Cours de linguistique g\'en\'erale}.
+\newblock Payot, Paris.
+\newblock Edited by C. Bally and A. Sechehaye.
+
+\bibitem[{Derrida(1967)}]{derrida1967grammatologie}
+Jacques Derrida. 1967.
+\newblock \emph{De la grammatologie}.
+\newblock Les \'Editions de Minuit, Paris.
+
+\bibitem[{Firth(1957)}]{firth1957synopsis}
+John~R. Firth. 1957.
+\newblock A synopsis of linguistic theory 1930--1955.
+\newblock In \emph{Studies in Linguistic Analysis}, pages 1--32. Blackwell.
+
+\bibitem[{Florescu and England()}]{florescuAlgorithmicallyGeneratingNew2019}
+Dorian Florescu and Matthew England.
+\newblock \href {https://doi.org/10.48550/arXiv.1906.01455} {Algorithmically
+  generating new algebraic features of polynomial systems for machine
+  learning}.
+
+\bibitem[{{Gemma Team, Google DeepMind}(2026)}]{gemma4_2026}
+{Gemma Team, Google DeepMind}. 2026.
+\newblock Gemma 4 technical report.
+\newblock \emph{arXiv preprint}.
+\newblock Model: \texttt{google/gemma-4-E4B-it}, Hugging Face.
+
+\bibitem[{Harnad(1990)}]{harnad1990symbol}
+Stevan Harnad. 1990.
+\newblock The symbol grounding problem.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 42(1-3):335--346.
+
+\bibitem[{Lynott et~al.(2020)Lynott, Connell, Brysbaert, Brand, and
+  Carney}]{lynott2020lancaster}
+Dermot Lynott, Louise Connell, Marc Brysbaert, James Brand, and James Carney.
+  2020.
+\newblock The lancaster sensorimotor norms: Multidimensional measures of
+  perceptual and action strength for 40,000 english words.
+\newblock \emph{Behavior Research Methods}, 52:1271--1291.
+
+\bibitem[{Strik~Lievers(2015)}]{striklievers2015synaesthesia}
+Francesca Strik~Lievers. 2015.
+\newblock Synaesthesia: A corpus-based study of cross-modal directionality.
+\newblock \emph{Functions of Language}, 22(1):69--95.
+
+\bibitem[{Ullmann(1957)}]{ullmann1957principles}
+Stephen Ullmann. 1957.
+\newblock \emph{The Principles of Semantics}.
+\newblock Blackwell, Oxford.
+
+\bibitem[{Winter(2019)}]{winter2019sensory}
+Bodo Winter. 2019.
+\newblock \emph{Sensory Linguistics: Language, Perception and Metaphor}.
+\newblock John Benjamins, Amsterdam.
+
+\end{thebibliography}
